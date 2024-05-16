@@ -9,3 +9,6 @@ Roadmap and marketing strategy
 
 The token is created for entertainment purposes only
 
+Contract adress: EQA8DpT1LP6x4Hhm_vGdAa4tQN9EqfzZSbdrzr0q6-e4OskN
+Ston.fi pool: https://app.ston.fi/pools/EQBfCdp-7AhaVjqWBlyQJX0s3NNmSj1eN-NAsMWUxzF0u7re
+presale soon
